@@ -40,16 +40,16 @@
   background-repeat: no-repeat;
 }
 
-.gallery img {
+.gallery img .description-title {
   width: 100%;
   height: 250px;
 }
-.gallery img .gallery img:hover {
+.gallery img .description-title .gallery img:hover {
   border: 5px solid rgba(198, 215, 146, 0.5254901961);
   transform: scale(1.2);
   transition: 2s;
 }
-.gallery img .col-lg-4 {
+.gallery img .description-title .col-lg-4 {
   padding: 25px;
 }
 
