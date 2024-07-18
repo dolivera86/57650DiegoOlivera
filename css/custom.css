@@ -70,4 +70,23 @@
   padding: 2rem;
 }
 
+.bg-image-nosotros {
+  background-image: url("../img/auto/fondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.bg-image-nosotros .description-title {
+  padding: 2rem;
+  color: #ddcc85;
+}
+.bg-image-nosotros .description-text {
+  width: 100%;
+  padding: 2rem;
+  background-color: rgba(100, 15, 117, 0.4);
+  border-radius: 1rem;
+  color: #ddcc85;
+}
+
 /*# sourceMappingURL=custom.css.map */
