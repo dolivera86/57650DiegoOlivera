@@ -39,17 +39,16 @@
   background-position: center;
   background-repeat: no-repeat;
 }
-
-.gallery img .description-title {
+.bg-image-productos .gallery img .description-title {
   width: 100%;
   height: 250px;
 }
-.gallery img .description-title .gallery img:hover {
+.bg-image-productos .gallery img:hover {
   border: 5px solid rgba(198, 215, 146, 0.5254901961);
   transform: scale(1.2);
   transition: 2s;
 }
-.gallery img .description-title .col-lg-4 {
+.bg-image-productos .col-lg-4 {
   padding: 25px;
 }
 

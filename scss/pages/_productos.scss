@@ -3,12 +3,12 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
 
-.gallery img .description-title {
-    width: 100%;
-    height: 250px;
-    
+    .gallery img .description-title {
+        width: 100%;
+        height: 250px;
+    }
+
     .gallery img:hover {
         border: 5px solid #c6d79286;
         transform: scale(1.2);
