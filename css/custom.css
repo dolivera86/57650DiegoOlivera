@@ -89,4 +89,12 @@
   color: #ddcc85;
 }
 
+.contacto-center {
+  width: 100%;
+  padding: 2rem;
+  color: #ddcc85;
+  background-color: rgba(100, 15, 117, 0.4);
+  border-radius: 0.5rem;
+}
+
 /*# sourceMappingURL=custom.css.map */
