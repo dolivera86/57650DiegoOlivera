@@ -10,6 +10,13 @@
   width: 4rem;
 }
 
+.footer {
+  background-color: #4540DB;
+  padding: 2rem;
+  width: 100%;
+  position: absolute;
+}
+
 .bg-image-inicio {
   background-image: url("../img/auto/meca.png");
   background-size: cover;
@@ -26,11 +33,23 @@
   color: #ddcc85;
 }
 
-.footer {
-  background-color: #4540DB;
-  padding: 2rem;
+.bg-image-productos {
+  background-image: url("../img/auto/fondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-image-productos .gallery img {
   width: 100%;
-  position: absolute;
+  height: 250px;
+}
+.bg-image-productos .gallery img:hover {
+  border: 5px solid rgba(198, 215, 146, 0.5254901961);
+  transform: scale(1.2);
+  transition: 2s;
+}
+.bg-image-productos .col-lg-4 {
+  padding: 25px;
 }
 
 /*# sourceMappingURL=custom.css.map */
