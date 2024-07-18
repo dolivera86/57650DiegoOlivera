@@ -3,19 +3,19 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
 
-    .gallery img {
-        width: 100%;
-        height: 250px; 
-    }
-    
-    .gallery img:hover {
-        border: 5px solid #c6d79286;
-        transform: scale(1.2);
-        transition: 2s;
-    }
+.gallery img {
+    width: 100%;
+    height: 250px; 
+}
 
-    .col-lg-4 {
-        padding: 25px;
-    }
+.gallery img:hover {
+    border: 5px solid #c6d79286;
+    transform: scale(1.2);
+    transition: 2s;
+}
+
+.col-lg-4 {
+    padding: 25px;
 }
