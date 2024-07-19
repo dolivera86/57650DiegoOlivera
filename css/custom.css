@@ -59,7 +59,7 @@
   padding: 25px;
 }
 
-.hero-article-servicios .colmod {
+.hero-article-servicios {
   padding: 2rem;
   background-color: rgba(100, 15, 117, 0.4);
   color: #ddcc85;
@@ -67,12 +67,15 @@
   overflow: hidden;
   height: 100%;
 }
-.hero-article-servicios .colmod .servicios-img {
+.hero-article-servicios .colmod {
+  padding: 25px;
+}
+.hero-article-servicios .servicios-img {
   width: 100%;
   padding: 1rem;
   gap: 2rem;
 }
-.hero-article-servicios .colmod .hero-servicios-div {
+.hero-article-servicios .hero-servicios-div {
   padding: 2rem;
 }
 
