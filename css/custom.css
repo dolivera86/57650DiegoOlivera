@@ -55,7 +55,7 @@
   transform: scale(1.2);
   transition: 2s;
 }
-.bg-image-productos .col-lg-4 {
+.bg-image-productos .colmod {
   padding: 25px;
 }
 
